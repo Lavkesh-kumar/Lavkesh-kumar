@@ -1,6 +1,4 @@
-# Lavkesh Kumar
-
-## About Me
+## 👋 About Me
 
 I’m a final-year Mathematics & Computer Science student at IIT Dhanbad with a strong foundation in machine learning, software engineering, computer fundamentals, and analytical problem-solving.
 
@@ -10,7 +8,7 @@ I enjoy working in environments where I can take products from 0 → 1, from pro
 
 ## What I bring
 
-- Real-world experience building scalable systems at Amazon
+- Real-world experience building scalable and efficient systems at Amazon
 - Strong problem-solving skills in applied ML and software engineering
 - Passion for end-to-end product delivery, from architecture to deployment
 - Comfortable working across data science, machine learning, and software development roles, delivering solutions from research through development to production
@@ -35,11 +33,3 @@ I enjoy working in environments where I can take products from 0 → 1, from pro
 
 ### Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![MySQL](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongoosejs.com/)
-
-### Core Concepts
-- Machine Learning, Deep Learning, NLP, Generative AI
-- Web development, Microservices, DevOps
-- Database management, Operating systems
-- Object-oriented programming
-- Data structures and algorithms
-- Multithreading
