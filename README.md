@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I’m a final-year Mathematics & Computer Science student at IIT Dhanbad with a strong foundation in machine learning, software engineering, computer fundamentals, and analytical problem-solving.
+I’m a final-year Mathematics & Computer Science student at IIT Dhanbad with a strong foundation in backend development, software engineering, machine learning, problem solving & computer fundamentals.
 
 During my tenure at Amazon, I worked on machine learning, backend, and cloud services, building impactful systems that improved the digital experience for millions of Alexa users. I also contributed to scaling Alexa+ into multiple new countries, including Mexico, the UK, and Canada.
 
